@@ -1,0 +1,8 @@
+title: Real time stock market analysis
+description: A project done with ipython notebook, about Stock Market analysis, to learn data analysis using python.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions

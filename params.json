@@ -1,6 +1,0 @@
-{
-  "name": "Real time stock market analysis",
-  "tagline": "A project done with ipython notebook, about Stock Market analysis, to learn data analysis using python.",
-  "body": "\r\n### Welcome to my Stock Market Analysis Project!\r\nI completed this project as a walk-through project during one of my courses. As my interest grew, I made great additions in the code using python as well as Tableau. Here is a brief summary of what I have done. Also, [Tableau Dashboard](https://public.tableau.com/views/Shares-DailyOverview/Dashboard1?:embed=y&:display_count=yes)\r\n",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
